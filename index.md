@@ -1,9 +1,8 @@
-
 <html>
 <body>
 
 <div id="header">
-</h1 align="center">奉节脐橙</h1>
+<h1 align="center"><FONT style="FONT-SIZE: 40pt; FILTER: shadow(color=green); WIDTH: 100%; COLOR: white; LINE-HEIGHT: 150%; FONT-FAMILY: 华文彩云"></FONT> 奉节脐橙</h1>
 </div>
 
 <div id="nav">
@@ -20,3 +19,7 @@
 2
 </p>
 </div>
+
+
+</body>
+</html>
