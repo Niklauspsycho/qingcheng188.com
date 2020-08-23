@@ -7,7 +7,7 @@
 
 <div id="nav">
 介绍<br>
-预购<br>
+订购<br>
 </div>
 
 <div id="section">
@@ -20,6 +20,7 @@
 </p>
 </div>
 
+<div >
 
 </body>
 </html>
